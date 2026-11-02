@@ -1,0 +1,8 @@
+Metric,Value
+Maximum sigma (Ω),1.9411224156473221
+Theoretical outside (%),1.0000000000000009
+Simulated resistors,1000000.0
+Outside count,10177.0
+Empirical outside (%),1.0177
+Empirical within (%),98.9823
+Mean batch outside (%),0.9945
